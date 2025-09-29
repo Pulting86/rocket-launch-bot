@@ -24,6 +24,9 @@ cd rocket-launch-bot
 2. Crea un entorno virtual e instala las dependencias del archivo **requirements.txt** :
 
 ```bash
+# Quitar restricciones
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 python -m venv venv
 source venv/bin/activate
 

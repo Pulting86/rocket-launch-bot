@@ -19,7 +19,7 @@ RocketFinderBot es un bot de Telegram que ayuda a encontrar el momento exacto en
 
 ```bash
 git clone https://github.com/Pulting86/rocket-launch-bot.git
-cd rocketfinderbot
+cd rocket-launch-bot
 ```
 2. Crea un entorno virtual e instala las dependencias del archivo **requirements.txt** :
 
